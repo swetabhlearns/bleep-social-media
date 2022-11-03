@@ -7,8 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. You can choose image from your system by clicking on the image icon on the bottom left of the Create post component.
 2. You can type your message in the text area which you want to share.
 3. You cannot share an empty post.
-4. Send Button click will share your message on the app.
+4. Send Button click will share your message along with the image on the app.
 5. Character limit of 250 letters. You cannot type beyond that.
+6. After sharing the post, The create post component goes into initial state.
 
 ### `npm install`
 

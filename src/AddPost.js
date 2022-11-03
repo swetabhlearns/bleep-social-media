@@ -17,6 +17,7 @@ const AddPost = ({ handleAddPost, file, handleImage }) => {
     if (postText.trim().length > 0 || file) {
       handleAddPost(postText);
     }
+    setPostText("");
   };
   const characterLimit = 250;
 
