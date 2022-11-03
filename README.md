@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `Functionalities`
+
+1. You can choose image from your system by clicking on the image icon on the bottom left of the Create post component.
+2. You can type your message in the text area which you want to share.
+3. You cannot share an empty post.
+4. Send Button click will share your message on the app.
+5. Character limit of 250 letters. You cannot type beyond that.
+
+### `npm install`
+
+It installs the required dependencies to run the app.
+
 ## Available Scripts
 
 In the project directory, you can run:
